@@ -96,6 +96,9 @@
 -define:UNITY_TEAM_LICENSE
 -define:ENABLE_IOS_ON_DEMAND_RESOURCES
 -define:ENABLE_IOS_APP_SLICING
+'Assets/FlappyBaseAssets/CameraEffect/ClashCamera.cs'
+'Assets/FlappyBaseAssets/CameraEffect/FlashEffect.cs'
 'Assets/Scripts/ScrollObject.cs'
+'Assets/Scripts/SealController.cs'
 -r:'/Applications/Unity/Unity.app/Contents/Mono/lib/mono/unity/System.Runtime.Serialization.dll'
 -r:'/Applications/Unity/Unity.app/Contents/Mono/lib/mono/unity/System.Xml.Linq.dll'
