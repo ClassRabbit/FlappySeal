@@ -82,4 +82,9 @@ public class SealController : MonoBehaviour {
 		isDead = true;
 	}
 
+	public void SetSteerActive(bool active)
+	{
+		rb2d.isKinematic = !active;
+	}
+
 }

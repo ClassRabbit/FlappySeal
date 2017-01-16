@@ -1,9 +1,11 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Block.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ClearTrigger.cs">
     <Files>
       <File FileName="Assets/Scripts/ScrollObject.cs" Line="9" Column="15" />
-      <File FileName="Assets/Scripts/SealController.cs" Line="83" Column="3" />
-      <File FileName="Assets/Scripts/Block.cs" Line="6" Column="10" />
+      <File FileName="Assets/Scripts/SealController.cs" Line="62" Column="4" />
+      <File FileName="Assets/Scripts/Block.cs" Line="24" Column="3" />
+      <File FileName="Assets/Scripts/GameController.cs" Line="90" Column="3" />
+      <File FileName="Assets/Scripts/ClearTrigger.cs" Line="6" Column="15" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
